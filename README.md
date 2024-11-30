@@ -9,7 +9,9 @@ A simple music playback application developed using UIKit. Includes basic track 
 - Ability to share a track via the system menu “Share”
 
 ## Screenshots 
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-30 at 07 31 54](https://github.com/user-attachments/assets/b5a68630-070e-4835-b2a7-5f3b0879f723){ width=150px }
+<img src="https://github.com/user-attachments/assets/4de14ece-b7a0-488c-bd54-47a65515ee0d" alt="Compact View" width="300">
+
+
 
 ## Technologies 
 - UIKit
