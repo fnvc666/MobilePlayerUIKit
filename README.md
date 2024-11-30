@@ -10,7 +10,9 @@ A simple music playback application developed using UIKit. Includes basic track 
 
 ## Screenshots 
 <img src="https://github.com/user-attachments/assets/4de14ece-b7a0-488c-bd54-47a65515ee0d" alt="Compact View" width="300">
-
+<img src="https://github.com/user-attachments/assets/4d252d66-b0e1-4813-bc79-fcf485e27c96" alt="Compact View" width="300">
+<img src="https://github.com/user-attachments/assets/c47eee8c-eb29-4b39-8bc0-cb03722e72f6" alt="Compact View" width="300">
+<img src="https://github.com/user-attachments/assets/4a0a7b49-c653-4af6-8044-7b064f0c9fc8" alt="Compact View" width="300">
 
 
 ## Technologies 
